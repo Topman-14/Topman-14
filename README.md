@@ -5,22 +5,14 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **Javascript, web development and more.**
+- 💬 Ask me about **Web development.**
 
-- 📫 Reach me here >> **talktotimothy101@gmail.com**
+- 📫 Reach out to me here >> **talktotimothy101@gmail.com**
 
-<h3 align="left">Let's Connect</h3>
-<p align="left">
-<a href="https://twitter.com/topman_14" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="topman_1000" height="30" width="40" />
-  </a>
-<a href="https://linkedin.com/in/temitope akinkuade" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="temitope akinkuade" height="30" width="40" />
-  </a>
-<a href="https://fb.com/tope akinkuade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tope akinkuade" height="30" width="40" /></a>
-</p>
+<h3 align="right"> . </h3>
 
-<h3 align="left">Languages and Tools I use</h3>
+
+<h2 align="left">Languages and Tools I use</h2>
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
@@ -54,3 +46,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=topman-14&show_icons=true&locale=en&layout=compact" alt="topman-14" /></p>
 
 <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=topman-14&show_icons=true&locale=en" alt="topman-14" /></p>
+
+<h2 align="left">Let's Connect</h2>
+<p align="left">
+<a href="https://twitter.com/topman_14" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="topman_1000" height="30" width="40" />
+  </a>
+<a href="https://linkedin.com/in/temitope akinkuade" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="temitope akinkuade" height="30" width="40" />
+  </a>
+<a href="https://fb.com/tope akinkuade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tope akinkuade" height="30" width="40" /></a>
+</p>
