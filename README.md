@@ -12,7 +12,7 @@
 <h3 align="right"> . </h3>
 
 
-<h2 align="left">Languages and Tools I use</h2>
+<h2 align="left">Languages and Tools I use 🛠 </h2>
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
@@ -47,7 +47,7 @@
 
 <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=topman-14&show_icons=true&locale=en" alt="topman-14" /></p>
 
-<h2 align="left">Let's Connect</h2>
+<h2 align="left">Let's Connect 😁</h2>
 <p align="left">
 <a href="https://twitter.com/topman_14" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="topman_1000" height="30" width="40" />
