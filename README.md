@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 I love to talk about **Tailwind**
+- 💬 I love to talk about **React, Next.js & Tailwind**
 
 - 💼 My freelance account - <a href="https://www.upwork.com/freelancers/~01be427818c85a1a73" target="_blank">Upwork</a> 
 
