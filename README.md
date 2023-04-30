@@ -1,21 +1,38 @@
-<h1 align="center">Hi 👋, I'm Temitope Akinkuade</h1>
-<h3 align="center">A passionate frontend developer from Nigeria 🇳🇬 </h3>
+<h1 align="center">Hi, I'm Temitope Akinkuade<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-- 🌱 I’m currently learning **React.js.**
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=35&duration=3194&pause=1500&color=24E104&center=true&vCenter=true&width=435&lines=Front-end+Developer%E2%9C%8C;Open+Source+Guy%F0%9F%98%8E;Graphic+Designer%E2%9C%A8" alt="Typing SVG" /></a>
+</div>
+
+- 🌱 I'm an entry level Dev
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **Web development.**
+- 💬 I love to talk about **Tailwind**
 
-- 📫 Reach out to me here >> **talktotimothy101@gmail.com**
+- 💼 My freelance account - <a href="https://www.upwork.com/freelancers/~01be427818c85a1a73" target="_blank">Upwork</a> 
 
 <h3 align="right"> . </h3>
 
+<h2 align="left">Let's Connect</h2>
+<p align="left">
+<a href="https://twitter.com/topman_14" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="topman_1000" height="30" width="40" />
+  </a>
+<a href="https://linkedin.com/in/temitope akinkuade" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="temitope akinkuade" height="30" width="40" />
+  </a>
+<a href="mailto:talktotimothy101@gmail.com" target="_blank">
+  <img align="center" src="https://img.icons8.com/fluency/48/null/new-post.png" alt="mail - talktotimothy101@gmail.com" height="40" width="40"/></a>
+</p>
 
-<h2 align="left">Languages and Tools I use 🛠 </h2>
+<h2 align="left">My Languages and Tools </h2>
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -43,17 +60,11 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=topman-14&show_icons=true&locale=en&layout=compact" alt="topman-14" /></p>
+## My Stats
 
-<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=topman-14&show_icons=true&locale=en" alt="topman-14" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Topman-14&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
 
-<h2 align="left">Let's Connect 😁</h2>
-<p align="left">
-<a href="https://twitter.com/topman_14" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="topman_1000" height="30" width="40" />
-  </a>
-<a href="https://linkedin.com/in/temitope akinkuade" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="temitope akinkuade" height="30" width="40" />
-  </a>
-<a href="https://fb.com/tope akinkuade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tope akinkuade" height="30" width="40" /></a>
-</p>
+![Topman-14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topman-14&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+
+
