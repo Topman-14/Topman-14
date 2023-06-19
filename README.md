@@ -62,6 +62,8 @@
 
 ## My Stats
 
+[![wakatime](https://wakatime.com/badge/user/0bc66ecc-2d03-4bf1-ae0f-3531cd78ba84.svg)](https://wakatime.com/@0bc66ecc-2d03-4bf1-ae0f-3531cd78ba84)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Topman-14&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
 
 ![Topman-14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topman-14&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
