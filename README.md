@@ -4,13 +4,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=35&duration=3194&pause=1500&color=24E104&center=true&vCenter=true&width=435&lines=Front-end+Developer%E2%9C%8C;Open+Source+Guy%F0%9F%98%8E;Graphic+Designer%E2%9C%A8" alt="Typing SVG" /></a>
 </div>
 
-- 🌱 I'm an entry level Dev
-
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 💬 I love to talk about **React, Next.js & Tailwind**
-
-- 💼 My freelance account - <a href="https://www.upwork.com/freelancers/~01be427818c85a1a73" target="_blank">Upwork</a> 
 
 <h3 align="right"> . </h3>
 
