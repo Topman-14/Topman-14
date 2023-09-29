@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Temitope (Timothy) Akinkuade<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi, I'm Tope Akinkuade<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=3194&pause=1500&color=24E104&center=true&vCenter=true&width=435&lines=Front-end+Developer%E2%9C%8C;Open+Source+Guy%F0%9F%98%8E;JavaScript%E2%9C%A8" alt="Typing SVG" /></a>
