@@ -72,7 +72,8 @@
 <p align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Topman-14&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="badge" />
-&nbsp; &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topman-14&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28" alt="badge" />
-
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=topman&layout=compact&langs_count=5&bg_color=171c28&text_color=00FFD2" alt="Tope's wakatime stats" />
+&nbsp;
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topman-14&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28" alt="badge" />
