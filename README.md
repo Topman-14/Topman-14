@@ -1,29 +1,30 @@
-<h1 align="center">Hi, I'm Tope Akinkuade<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+# Hi, I'm Tope Akinkuade <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=3194&pause=1500&color=24E104&center=true&vCenter=true&width=435&lines=FullStack+Developer%E2%9C%8C;Open+Source+Guy%F0%9F%98%8E;TypeScript%E2%9C%A8" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=3194&pause=1500&color=24E104&center=true&vCenter=true&width=435&lines=FullStack+Developer%E2%9C%8C;Open+Source+Guy%F0%9F%98%8E;TypeScript%E2%9C%A8" alt="Typing SVG" />
+  </a>
 </div>
 
 - 👯 Open to collaborate on **projects and hackathons**
 - 💬 I love to talk about **MERN, Next.js, other JS frameworks & Web3**
 
-
-
-<h2 align="left">Let's Connect</h2>
+## Socials
 <p align="left">
-<a href="https://twitter.com/topman_14" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="topman_1000" height="30" width="40" />
+  <a href="https://twitter.com/topman_14" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="topman_1000" height="30" width="40" />
   </a>
-<a href="https://linkedin.com/in/temitope akinkuade" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="temitope akinkuade" height="30" width="40" />
+  <a href="https://linkedin.com/in/temitope akinkuade" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="temitope akinkuade" height="30" width="40" />
   </a>
-<a href="mailto:talktotimothy101@gmail.com" target="_blank">
-  <img align="center" src="https://img.icons8.com/fluency/48/null/new-post.png" alt="mail - talktotimothy101@gmail.com" height="40" width="40"/></a>
+  <a href="mailto:talktotimothy101@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/null/new-post.png" alt="mail - talktotimothy101@gmail.com" height="40" width="40"/>
+  </a>
 </p>
 
-<h2 align="left">My Languages and Tools </h2>
+## My Languages and Tools
 <p align="left"> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  
@@ -47,12 +48,8 @@
 </p>
 
 ## My Stats
-
 [![wakatime](https://wakatime.com/badge/user/0bc66ecc-2d03-4bf1-ae0f-3531cd78ba84.svg)](https://wakatime.com/@0bc66ecc-2d03-4bf1-ae0f-3531cd78ba84)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Topman-14&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
 
 ![Topman-14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topman-14&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
-
-
