@@ -7,7 +7,6 @@
   </a>
 </div>
 
-- 🏫 I'm a CS student at [Trinity University Yaba](https://www.trinityuniversity.edu.ng/)
 - 👯 Open to collaborate on gigs, projects and hackathons
 - 💬 I love to talk about **MERN, Next.js, other JS frameworks & Web3**
 - 💼 Check out my resume for more info [here](https://topman.vercel.app/resume.pdf)
