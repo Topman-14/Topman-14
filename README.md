@@ -9,7 +9,7 @@
 
 - 👯 Open to collaborate on gigs, projects and hackathons
 - 💬 I love to talk about **MERN, Next.js, other JS frameworks & Web3**
-- 💼 Check out my resume for more info [here](https://topman.vercel.app/resume.pdf)
+- 💼 Check out my resume for more info [here](https://docs.google.com/document/d/1Yk9y7OYN2WKhCczbtiXgGBTsV0FxWHMi0D6F_0vmiRg/edit?usp=sharing)
 
  &nbsp;
   
