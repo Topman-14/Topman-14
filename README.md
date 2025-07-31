@@ -11,7 +11,7 @@
 
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,jest,materialui,linux,postman,vercel,vite,mongodb,postgres,angular,gitlab,shadcn" />
+  <img src="https://skillicons.dev/icons?i=git,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,jest,materialui,linux,postman,vercel,vite,mongodb,postgres,angular,gitlab,aws" />
 </a>
   <br />
   </div>
