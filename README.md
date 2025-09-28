@@ -1,6 +1,6 @@
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![Hi, I’m Tope](https://github.com/Topman-14/Topman-14/assets/98329531/c767cc8b-9b13-476b-8358-d3c720d8a92a)
+![Hi, I’m Tope, I build things for the web](https://github.com/Topman-14/Topman-14/assets/98329531/c767cc8b-9b13-476b-8358-d3c720d8a92a)
 
 
  &nbsp;
@@ -93,7 +93,8 @@
   &nbsp;
  &nbsp;
  
-## Bye!!
-![pixel-jeff-hulk-v-thor](https://github.com/user-attachments/assets/a0c4c901-0efe-410d-8698-42b456654a53)
+## Bye!
+![9070324cdfc07c68d60eed0c39e77573](https://github.com/user-attachments/assets/c5240cd6-73ae-4e9e-95f6-8de4df6edc6f)
+
 
 
